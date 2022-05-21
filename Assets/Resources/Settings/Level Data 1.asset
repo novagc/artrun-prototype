@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c1fd9252dbf42819149e4a87033622d, type: 3}
+  m_Name: Level Data 1
+  m_EditorClassIdentifier: 
+  LevelName: 
+  LevelDescription: 
+  LevelImage: {fileID: 2800000, guid: 32944d08f96203b45ae01877792eea8a, type: 3}
+  CellSettings: {fileID: 11400000, guid: 6007dd425b53ca349aafa204ccccb544, type: 2}
+  RowCount: 20
+  ColumnCount: 20
+  CoinsCount: 10
+  PaletteCount: 2
+  TubeCount: 2
+  StartCoordinates:
+    X: 0
+    Y: 0
+  BarriersCoordinates:
+  - X: 2
+    Y: 2
+  - X: 4
+    Y: 2
+  - X: 6
+    Y: 2
+  - X: 8
+    Y: 2
+  - X: 10
+    Y: 2
+  - X: 15
+    Y: 15
+  - X: 14
+    Y: 15
+  - X: 15
+    Y: 14
+  - X: 14
+    Y: 14
+  - X: 7
+    Y: 14
+  - X: 8
+    Y: 14
+  - X: 8
+    Y: 15
+  - X: 7
+    Y: 15
+  - X: 5
+    Y: 7
+  - X: 5
+    Y: 8
+  - X: 5
+    Y: 9
+  - X: 6
+    Y: 9
+  - X: 7
+    Y: 9
+  - X: 10
+    Y: 9
+  - X: 11
+    Y: 9
+  - X: 12
+    Y: 9
+  - X: 12
+    Y: 8
+  - X: 12
+    Y: 7
+  - X: 16
+    Y: 0
+  - X: 16
+    Y: 1
+  - X: 16
+    Y: 2
+  - X: 16
+    Y: 3
+  - X: 16
+    Y: 4
+  - X: 16
+    Y: 5
+  - X: 16
+    Y: 6
+  - X: 16
+    Y: 7
+  - X: 16
+    Y: 8
+  - X: 16
+    Y: 9
+  - X: 16
+    Y: 12
+  - X: 16
+    Y: 13
+  - X: 16
+    Y: 14
+  - X: 16
+    Y: 15
+  - X: 16
+    Y: 16
+  - X: 16
+    Y: 17
+  - X: 16
+    Y: 18
+  - X: 16
+    Y: 19
+  CameraFinalPosition: {x: 28.5, y: 105, z: 28.5}
